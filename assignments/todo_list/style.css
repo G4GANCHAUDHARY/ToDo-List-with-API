@@ -1,0 +1,59 @@
+body{
+    background-color: cadetblue;
+}
+
+h1 {
+    width: 50% ;
+    height: 50px;
+    margin: 50px 300px 50px 300px;
+    padding: 10px;
+    border: 8px solid white;
+    background-color: black;
+    color: cadetblue;
+    text-align: center;
+    border-radius: 8px;
+}
+
+button:hover {
+    color:yellowgreen;
+}
+
+button {
+    display: inline-block;
+    width: 420px;
+    height: 80px;
+    margin: 10px 100px 10px 100px ;
+    padding: 10px;
+    border: 8px solid white;
+    background-color: black;
+    color: cadetblue;
+    text-align: center;
+    border-radius: 8px;
+    font-size:x-large;
+    font-weight: bolder;
+}
+
+table {
+    display: inline-block;
+    background-color: black;
+    color: cadetblue;
+    border: 8px solid white;
+    border-radius: 8px;
+    margin: 5px;
+    padding: 10px;
+    vertical-align: top;
+}
+
+td {
+    font-size: medium;
+    padding: 5px;
+    text-align: left;
+}
+
+th {
+    font-size: large;
+}
+
+td:hover{
+    color: yellowgreen;
+}
